@@ -1,27 +1,21 @@
-# REWEPresentation
+JobService
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+this a project to help peaple to find their desired job
 
-## Development server
+Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+as you know, finding a job that is fit with your talents and skills is very difficult. Thus, we are trying to use different technology to match the applicant with their desired job.
 
-## Code scaffolding
+Dependencies
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+.net core
+windos or linux
+angular and node
+Installing
 
-## Build
+you can download the source and use in your local machine.
+Authors
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Mohsen Parmooz
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Version History 0.1 Initial Release
